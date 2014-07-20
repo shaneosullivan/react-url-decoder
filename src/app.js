@@ -293,12 +293,6 @@ function initApp() {
 		}
 	});
 
-	var TabSeparator = React.createClass({
-		render: function() {
-			return <span style={{padding: '10px'}}>{'-'}</span>;
-		}
-	})
-
 	function renderApp() {
 
 		React.renderComponent(
