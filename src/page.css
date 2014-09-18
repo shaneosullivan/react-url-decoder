@@ -207,6 +207,10 @@ html *
   font-size: 14px;
   position: relative;
 }
+.decoded
+{
+  tab-size: 2;
+}
 @media screen and (max-width: 960px)
 {
   .nav-main
